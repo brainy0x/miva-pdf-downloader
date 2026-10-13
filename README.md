@@ -4,6 +4,17 @@ Downloads the PDFs from your Miva courses into folders, one per week, ready to u
 
 It only downloads what you can already open when logged in as yourself. You log in yourself in a browser window; the tool never sees or stores your password.
 
+## Disclaimer
+
+This is an independent, unofficial tool. It is not made, endorsed or supported by Miva Open University, Moodle, Google or any other company named here.
+
+- **Purpose.** This tool exists only to automate a tedious manual process: saving, one by one, the course files you already have access to. It is not intended for any malpractice, cheating, circumventing access controls, or violation of academic or professional ethics, and it must not be used for any of those things.
+- **Personal use only.** It logs in as you and downloads only what your own account can already open. Use it only for your own study, and only for material you are allowed to download.
+- **You are responsible for how you use it.** Check Miva's terms of use and your university's rules on automated tools before running it. The author is not responsible for any account restriction, suspension or other consequence that results from using it.
+- **Course material belongs to its owners.** Downloaded files are copyrighted by Miva and the course authors. Don't share, resell or republish them.
+- **No warranty.** The tool is provided "as is", without warranty of any kind. The author is not liable for any loss, damage or data problems arising from its use.
+- **Keep your login private.** The `browser_profile` folder holds your saved sign-in. Never share it.
+
 ## Quick start (Windows)
 
 1. Install Python from https://www.python.org/downloads/ if you don't have it. On the first screen of the installer, tick **"Add python.exe to PATH"**.
