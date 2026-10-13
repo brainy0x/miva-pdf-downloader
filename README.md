@@ -18,7 +18,7 @@ This is an independent, unofficial tool. It is not made, endorsed or supported b
 ## Quick start (Windows)
 
 1. Install Python from https://www.python.org/downloads/ if you don't have it. On the first screen of the installer, tick **"Add python.exe to PATH"**.
-2. Unzip this folder somewhere (for example your Documents).
+2. Download **Miva-PDF-Downloader.zip** from the [Releases page](https://github.com/brainy0x/miva-pdf-downloader/releases/latest), then unzip it somewhere (for example your Documents).
 3. Double-click **Run Miva Downloader.bat**.
    - The first time it installs a small Python package. It uses the Chrome, Edge or Brave you already have, and only downloads a browser (a few minutes) if none is found.
 4. A browser window opens. Log in to Miva there.
