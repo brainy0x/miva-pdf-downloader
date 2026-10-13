@@ -1,0 +1,6 @@
+browser_profile/
+downloads/
+.setup_done
+debug_*.html
+__pycache__/
+*.zip
