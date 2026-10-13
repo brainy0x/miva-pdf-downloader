@@ -1,4 +1,4 @@
-# Miva PDF Downloader
+# LMS PDF Downloader
 
 Downloads the PDFs from your Miva courses into folders, one per week, ready to upload to NotebookLM (or anything else).
 
